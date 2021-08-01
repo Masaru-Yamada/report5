@@ -1,3 +1,4 @@
 language: bash
 script:
- - ./report5_test.sh
+  - echo "hello"
+  - ./report5_test.sh
